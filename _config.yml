@@ -1,4 +1,3 @@
 title: Data Integration
 description: The process of combining data from different sources into a single unified view for analysis and use.
-theme: jekyll-theme-cayman
-show_downloads: false
+theme: minima
